@@ -76,7 +76,13 @@ ol p {
 }
 
 .step-img {
-    max-width: 400px;
+    max-width: 300px;
     float: right;
-    vertical-align: middle;
+    margin-left: 15px;
+}
+
+.step-img2 {
+    max-width: 300px;
+    float: left;
+    margin-right: 15px;
 }
